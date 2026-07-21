@@ -13,9 +13,17 @@ Bootcamp focado em fundamentos de Python e Ciência de Dados. Este repositório 
 ## Estrutura
 
 santander-2025-python-dio/
-├── modulo-01/
-├── modulo-02/
-└── ...
+├── 00 - Fundamentos/
+├── 01 - Estrutura de dados/
+├── 02 - Programação Orientada a Objetos/
+├── 03 - Decoradores, Iteradores e Geradores/
+├── 04 - Data e hora/
+├── 05 - Manipulação de arquivos/
+├── 06 - Gerenciamento de pacotes e boas práticas/
+├── 07 - Banco de dados/
+├── 11 - Desenvolvimento de APIs com Flask/
+├── 12 - Desenvolvimento fullstack com Django/
+└── 13 - APIs Assíncronas com FastAPI/
 
 ## Autor
 
